@@ -4,6 +4,7 @@
 /src
 /website/.sass-cache
 /website/build
+/website/deploy/.terraform
 .DS_Store
 .vagrant
 .idea
